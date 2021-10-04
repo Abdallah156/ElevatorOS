@@ -1,0 +1,237 @@
+ Total Execution time: 5620351600 nano seconds
+
+System Event Log: 
+
+Memory:,Thread[closeDoor,5,main],Thread[callElevator,5,main],Thread[announceFloor,5,main],Thread[openDoor,5,main],null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,
+
+The New State array:
+closeDoor, -->  id: 1, pid: 2, priority: 5,Execution time : 30400
+callElevator, -->  id: 3, pid: 4, priority: 5,Execution time : 155200
+announceFloor, -->  id: 5, pid: 6, priority: 5,Execution time : 176800
+openDoor, -->  id: 7, pid: 8, priority: 5,Execution time : 193600
+
+The Ready State array:
+closeDoor, -->  id: 1, pid: 2, priority: 5, Execution time : 1000
+callElevator, -->  id: 3, pid: 4, priority: 5, Execution time : 20500
+announceFloor, -->  id: 5, pid: 6, priority: 5, Execution time : 58900
+openDoor, -->  id: 7, pid: 8, priority: 5, Execution time : 84900
+
+The Running State array:
+closeDoor, -->  id: 1, pid: 2, priority: 5,Execution time : 900
+
+The Finished State array:
+closeDoor, -->  id: 1, pid: 2, priority: 5,Execution time : 900
+
+The Ready State array:
+callElevator, -->  id: 3, pid: 4, priority: 5, Execution time : 900
+announceFloor, -->  id: 5, pid: 6, priority: 5, Execution time : 19500
+openDoor, -->  id: 7, pid: 8, priority: 5, Execution time : 36200
+
+The Running State array:
+callElevator, -->  id: 3, pid: 4, priority: 5,Execution time : 800
+
+The Finished State array:
+closeDoor, -->  id: 1, pid: 2, priority: 5,Execution time : 700
+callElevator, -->  id: 3, pid: 4, priority: 5,Execution time : 18000
+
+The Ready State array:
+announceFloor, -->  id: 5, pid: 6, priority: 5, Execution time : 900
+openDoor, -->  id: 7, pid: 8, priority: 5, Execution time : 17300
+
+The Running State array:
+announceFloor, -->  id: 5, pid: 6, priority: 5,Execution time : 800
+
+The Finished State array:
+closeDoor, -->  id: 1, pid: 2, priority: 5,Execution time : 900
+callElevator, -->  id: 3, pid: 4, priority: 5,Execution time : 36100
+announceFloor, -->  id: 5, pid: 6, priority: 5,Execution time : 52000
+
+The Ready State array:
+openDoor, -->  id: 7, pid: 8, priority: 5, Execution time : 800
+
+The Running State array:
+openDoor, -->  id: 7, pid: 8, priority: 5,Execution time : 800
+
+The Finished State array:
+closeDoor, -->  id: 1, pid: 2, priority: 5,Execution time : 800
+callElevator, -->  id: 3, pid: 4, priority: 5,Execution time : 20000
+announceFloor, -->  id: 5, pid: 6, priority: 5,Execution time : 35300
+openDoor, -->  id: 7, pid: 8, priority: 5,Execution time : 53100
+
+ Total Execution time: 5674774000 nano seconds
+
+System Event Log: 
+
+Memory:,Thread[closeDoor,5,main],Thread[callElevator,5,main],Thread[announceFloor,5,main],Thread[openDoor,5,main],null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,
+
+The New State array:
+closeDoor, -->  id: 9, pid: 10, priority: 5,Execution time : 3800
+callElevator, -->  id: 11, pid: 12, priority: 5,Execution time : 25700
+announceFloor, -->  id: 13, pid: 14, priority: 5,Execution time : 44100
+openDoor, -->  id: 15, pid: 16, priority: 5,Execution time : 65400
+
+The Ready State array:
+closeDoor, -->  id: 9, pid: 10, priority: 5, Execution time : 1600
+callElevator, -->  id: 11, pid: 12, priority: 5, Execution time : 55600
+announceFloor, -->  id: 13, pid: 14, priority: 5, Execution time : 87500
+openDoor, -->  id: 15, pid: 16, priority: 5, Execution time : 100200
+
+The Running State array:
+closeDoor, -->  id: 9, pid: 10, priority: 5,Execution time : 800
+
+The Finished State array:
+closeDoor, -->  id: 1, pid: 2, priority: 5,Execution time : 800
+callElevator, -->  id: 3, pid: 4, priority: 5,Execution time : 20500
+announceFloor, -->  id: 5, pid: 6, priority: 5,Execution time : 33200
+openDoor, -->  id: 7, pid: 8, priority: 5,Execution time : 45400
+closeDoor, -->  id: 9, pid: 10, priority: 5,Execution time : 58900
+
+The Ready State array:
+callElevator, -->  id: 11, pid: 12, priority: 5, Execution time : 800
+announceFloor, -->  id: 13, pid: 14, priority: 5, Execution time : 15800
+openDoor, -->  id: 15, pid: 16, priority: 5, Execution time : 29600
+
+The Running State array:
+callElevator, -->  id: 11, pid: 12, priority: 5,Execution time : 700
+
+The Finished State array:
+closeDoor, -->  id: 1, pid: 2, priority: 5,Execution time : 600
+callElevator, -->  id: 3, pid: 4, priority: 5,Execution time : 12900
+announceFloor, -->  id: 5, pid: 6, priority: 5,Execution time : 26500
+openDoor, -->  id: 7, pid: 8, priority: 5,Execution time : 38100
+closeDoor, -->  id: 9, pid: 10, priority: 5,Execution time : 49500
+callElevator, -->  id: 11, pid: 12, priority: 5,Execution time : 60900
+
+The Ready State array:
+announceFloor, -->  id: 13, pid: 14, priority: 5, Execution time : 700
+openDoor, -->  id: 15, pid: 16, priority: 5, Execution time : 12200
+
+The Running State array:
+announceFloor, -->  id: 13, pid: 14, priority: 5,Execution time : 700
+
+The Finished State array:
+closeDoor, -->  id: 1, pid: 2, priority: 5,Execution time : 700
+callElevator, -->  id: 3, pid: 4, priority: 5,Execution time : 12600
+announceFloor, -->  id: 5, pid: 6, priority: 5,Execution time : 23900
+openDoor, -->  id: 7, pid: 8, priority: 5,Execution time : 35100
+closeDoor, -->  id: 9, pid: 10, priority: 5,Execution time : 49900
+callElevator, -->  id: 11, pid: 12, priority: 5,Execution time : 62000
+announceFloor, -->  id: 13, pid: 14, priority: 5,Execution time : 74200
+
+The Ready State array:
+openDoor, -->  id: 15, pid: 16, priority: 5, Execution time : 800
+
+The Running State array:
+openDoor, -->  id: 15, pid: 16, priority: 5,Execution time : 700
+
+The Finished State array:
+closeDoor, -->  id: 1, pid: 2, priority: 5,Execution time : 800
+callElevator, -->  id: 3, pid: 4, priority: 5,Execution time : 12700
+announceFloor, -->  id: 5, pid: 6, priority: 5,Execution time : 26100
+openDoor, -->  id: 7, pid: 8, priority: 5,Execution time : 46500
+closeDoor, -->  id: 9, pid: 10, priority: 5,Execution time : 58200
+callElevator, -->  id: 11, pid: 12, priority: 5,Execution time : 71500
+announceFloor, -->  id: 13, pid: 14, priority: 5,Execution time : 83500
+openDoor, -->  id: 15, pid: 16, priority: 5,Execution time : 94800
+
+ Total Execution time: 8049374400 nano seconds
+
+System Event Log: 
+
+Memory:,Thread[closeDoor,5,main],Thread[callElevator,5,main],Thread[announceFloor,5,main],Thread[openDoor,5,main],null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,
+
+The New State array:
+closeDoor, -->  id: 17, pid: 18, priority: 5,Execution time : 2800
+callElevator, -->  id: 19, pid: 20, priority: 5,Execution time : 27800
+announceFloor, -->  id: 21, pid: 22, priority: 5,Execution time : 40400
+openDoor, -->  id: 23, pid: 24, priority: 5,Execution time : 51500
+
+The Ready State array:
+closeDoor, -->  id: 17, pid: 18, priority: 5, Execution time : 900
+callElevator, -->  id: 19, pid: 20, priority: 5, Execution time : 12700
+announceFloor, -->  id: 21, pid: 22, priority: 5, Execution time : 33200
+openDoor, -->  id: 23, pid: 24, priority: 5, Execution time : 45700
+
+The Running State array:
+closeDoor, -->  id: 17, pid: 18, priority: 5,Execution time : 700
+
+The Finished State array:
+closeDoor, -->  id: 1, pid: 2, priority: 5,Execution time : 700
+callElevator, -->  id: 3, pid: 4, priority: 5,Execution time : 16100
+announceFloor, -->  id: 5, pid: 6, priority: 5,Execution time : 28100
+openDoor, -->  id: 7, pid: 8, priority: 5,Execution time : 39200
+closeDoor, -->  id: 9, pid: 10, priority: 5,Execution time : 62900
+callElevator, -->  id: 11, pid: 12, priority: 5,Execution time : 75100
+announceFloor, -->  id: 13, pid: 14, priority: 5,Execution time : 86800
+openDoor, -->  id: 15, pid: 16, priority: 5,Execution time : 97300
+closeDoor, -->  id: 17, pid: 18, priority: 5,Execution time : 107200
+
+The Ready State array:
+callElevator, -->  id: 19, pid: 20, priority: 5, Execution time : 700
+announceFloor, -->  id: 21, pid: 22, priority: 5, Execution time : 10800
+openDoor, -->  id: 23, pid: 24, priority: 5, Execution time : 20200
+
+The Running State array:
+callElevator, -->  id: 19, pid: 20, priority: 5,Execution time : 700
+
+The Finished State array:
+closeDoor, -->  id: 1, pid: 2, priority: 5,Execution time : 700
+callElevator, -->  id: 3, pid: 4, priority: 5,Execution time : 10400
+announceFloor, -->  id: 5, pid: 6, priority: 5,Execution time : 19900
+openDoor, -->  id: 7, pid: 8, priority: 5,Execution time : 31200
+closeDoor, -->  id: 9, pid: 10, priority: 5,Execution time : 40800
+callElevator, -->  id: 11, pid: 12, priority: 5,Execution time : 59400
+announceFloor, -->  id: 13, pid: 14, priority: 5,Execution time : 98900
+openDoor, -->  id: 15, pid: 16, priority: 5,Execution time : 129100
+closeDoor, -->  id: 17, pid: 18, priority: 5,Execution time : 141400
+callElevator, -->  id: 19, pid: 20, priority: 5,Execution time : 152100
+
+The Ready State array:
+announceFloor, -->  id: 21, pid: 22, priority: 5, Execution time : 800
+openDoor, -->  id: 23, pid: 24, priority: 5, Execution time : 11400
+
+The Running State array:
+announceFloor, -->  id: 21, pid: 22, priority: 5,Execution time : 700
+
+The Finished State array:
+closeDoor, -->  id: 1, pid: 2, priority: 5,Execution time : 700
+callElevator, -->  id: 3, pid: 4, priority: 5,Execution time : 13200
+announceFloor, -->  id: 5, pid: 6, priority: 5,Execution time : 23000
+openDoor, -->  id: 7, pid: 8, priority: 5,Execution time : 32700
+closeDoor, -->  id: 9, pid: 10, priority: 5,Execution time : 43500
+callElevator, -->  id: 11, pid: 12, priority: 5,Execution time : 53300
+announceFloor, -->  id: 13, pid: 14, priority: 5,Execution time : 63000
+openDoor, -->  id: 15, pid: 16, priority: 5,Execution time : 75100
+closeDoor, -->  id: 17, pid: 18, priority: 5,Execution time : 86100
+callElevator, -->  id: 19, pid: 20, priority: 5,Execution time : 97000
+announceFloor, -->  id: 21, pid: 22, priority: 5,Execution time : 108000
+
+The Ready State array:
+openDoor, -->  id: 23, pid: 24, priority: 5, Execution time : 700
+
+The Running State array:
+openDoor, -->  id: 23, pid: 24, priority: 5,Execution time : 700
+
+The Finished State array:
+closeDoor, -->  id: 1, pid: 2, priority: 5,Execution time : 700
+callElevator, -->  id: 3, pid: 4, priority: 5,Execution time : 11000
+announceFloor, -->  id: 5, pid: 6, priority: 5,Execution time : 21900
+openDoor, -->  id: 7, pid: 8, priority: 5,Execution time : 32400
+closeDoor, -->  id: 9, pid: 10, priority: 5,Execution time : 46100
+callElevator, -->  id: 11, pid: 12, priority: 5,Execution time : 140000
+announceFloor, -->  id: 13, pid: 14, priority: 5,Execution time : 162000
+openDoor, -->  id: 15, pid: 16, priority: 5,Execution time : 174300
+closeDoor, -->  id: 17, pid: 18, priority: 5,Execution time : 185700
+callElevator, -->  id: 19, pid: 20, priority: 5,Execution time : 199100
+announceFloor, -->  id: 21, pid: 22, priority: 5,Execution time : 210300
+openDoor, -->  id: 23, pid: 24, priority: 5,Execution time : 220900
+
+ Total Execution time: 3163458500 nano seconds
+
+System Event Log: 
+
+Memory:,Thread[breakInterrupt,5,main],null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,
+
+The Blocked State array:
+breakInterrupt, -->  id: 25, pid: 26, priority: 5,Execution time : 2500
+
